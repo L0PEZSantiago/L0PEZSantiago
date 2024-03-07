@@ -10,4 +10,4 @@ J'aime créer, proposer du contenu, des idées. J'apprend la plupart du temps pa
 <p> J'ai aussi créé un portfolio que voici : https://l0pezsantiago.github.io/mon-portfolio/ </p>
 <p>J'aimerai à l'avenir apprendre à utiliser des frameworks, tel que React, Angular, Django et bien d'autres.</p>
 
-<p>Pouvoir aussi gérer le backend, je veux pouvoir être polyvalent!</p>
+<p>J'aimerai aussi apprendre le backend, j'ai une énorme soif de savoir et j'ai hâte de préparer des futurs projets que je pourrai vous présenter.</p>
