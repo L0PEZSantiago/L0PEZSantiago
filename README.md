@@ -1,5 +1,7 @@
 <h1 align="center"> Bienvenue sur mon GitHub!</h1>
 
+![L0PEZSantiago's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L0PEZSantiago&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <p> Je m'appelle Santiago, j'ai 27 ans, et il y a quelques mois je me suis lancé dans le développement web.
 Auparavant j'étais dans le milieu de la restauration où je suis resté 8 ans, ayant fait le tour et étant passionné par le Dev, j'ai décidé de me reconvertir.</p>
 
